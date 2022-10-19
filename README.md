@@ -1,1 +1,2 @@
-# Expo-With-Sensors
+# Expo-With-Sensors: This project is sample code for connecting an expo app to sensors: camera, image library, magnetometer, etc...
+
